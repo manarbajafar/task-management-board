@@ -201,7 +201,7 @@ export class StorageService {
     if (!rawProjectInfo) {
       // Return default project info if none exists
       return {
-        name: 'لوحة إدارة المهام',
+        name: 'Task Management Board',
         description: 'Task management board',
         assignedUsers: [],
         tags: [],
@@ -235,7 +235,7 @@ export class StorageService {
     
     if (!existing) {
       const defaultProjectInfo: ProjectInfo = {
-        name: 'لوحة إدارة المهام',
+        name: 'Task Management Board',
         description: 'Task management board',
         assignedUsers: [],
         tags: [],

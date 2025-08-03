@@ -1,0 +1,117 @@
+{
+  "common": {
+    "cancel": "إلغاء",
+    "theme": {
+      "light": "المظهر الفاتح",
+      "dark": "المظهر الداكن"
+    },
+    "search": {
+      "placeholder": "البحث..."
+    }
+  },
+  "projectInfo": {
+    "activeProject": "المشروع النشط",
+    "noUsersAssigned": "لا يوجد مستخدمين مكلفين",
+    "assignedTo": "مُكلف إلى",
+    "dueDate": "تاريخ الاستحقاق",
+    "tags": "العلامات",
+    "noDueDate": "لم يتم تحديد تاريخ استحقاق",
+    "setDueDate": "تحديد تاريخ الاستحقاق",
+    "selectDueDate": "اختر تاريخ الاستحقاق",
+    "clickToEditDate": "انقر لتعديل التاريخ",
+    "editName": "تعديل اسم المشروع",
+    "overdue": "متأخر",
+    "dueToday": "مستحق اليوم",
+    "dueSoon": "مستحق قريباً",
+    "daysLeft": "أيام متبقية",
+    "addUser": "إضافة مستخدم",
+    "addUserToProject": "إضافة مستخدم للمشروع",
+    "userName": "الاسم الكامل",
+    "userEmail": "البريد الإلكتروني",
+    "userNameRequired": "الاسم مطلوب",
+    "userEmailRequired": "البريد الإلكتروني مطلوب",
+    "userNameMinLength": "يجب أن يكون الاسم على الأقل حرفين",
+    "userEmailInvalid": "يرجى إدخال بريد إلكتروني صحيح",
+    "userNamePlaceholder": "أدخل الاسم الكامل",
+    "userEmailPlaceholder": "أدخل البريد الإلكتروني",
+    "userAdded": "تم إضافة المستخدم بنجاح",
+    "addTag": "إضافة علامة",
+    "addTags": "إضافة علامات",
+    "enterTag": "أدخل اسم العلامة",
+    "maxTagsReached": "تم الوصول للحد الأقصى من العلامات",
+    "status": {
+      "active": "نشط",
+      "completed": "مكتمل",
+      "on-hold": "معلق"
+    }
+  },
+  "taskBoard": {
+    "title": "لوحة إدارة المهام",
+    "addTask": "إضافة مهمة",
+    "editTask": "تعديل المهمة",
+    "addTaskToColumn": "إضافة مهمة لهذا العمود",
+    "totalTasks": "إجمالي المهام",
+    "showing": "عرض",
+    "of": "من",
+    "tasks": "مهام",
+    "searchResults": "نتائج البحث عن",
+    "filtered": "مفلتر",
+    "total": "الإجمالي",
+    "priority": "الأولوية",
+    "assignee": "المكلف",
+    "filters": {
+      "title": "تصفية",
+      "priority": "الأولوية",
+      "selectPriority": "اختر الأولوية",
+      "assignee": "المكلّف",
+      "selectAssignee": "اختر المكلف",
+      "clear": "مسح",
+      "activeFilters": "الفلاتر النشطة",
+      "active": "نشط"
+    },
+    "search": {
+      "placeholder": "البحث في المهام بالعنوان أو الوصف أو العلامات...",
+      "mobilePlaceholder": "البحث في المهام...",
+      "noResults": "لم يتم العثور على مهام"
+    },
+    "task": {
+      "title": "العنوان",
+      "titleRequired": "العنوان مطلوب",
+      "titlePlaceholder": "أدخل عنوان المهمة",
+      "description": "الوصف",
+      "descriptionPlaceholder": "أدخل وصف المهمة",
+      "priority": "الأولوية",
+      "priorityRequired": "الأولوية مطلوبة",
+      "selectPriority": "اختر الأولوية",
+      "assignee": "المكلف",
+      "selectAssignee": "اختر المكلف",
+      "tags": "العلامات",
+      "tagsPlaceholder": "أضف علامات (اضغط Enter)",
+      "create": "إنشاء المهمة",
+      "update": "تحديث المهمة",
+      "cancel": "إلغاء",
+      "delete": "حذف",
+      "confirmDelete": "حذف المهمة؟",
+      "confirmDeleteDesc": "لا يمكن التراجع عن هذا الإجراء",
+      "created": "تم إنشاء المهمة بنجاح",
+      "updated": "تم تحديث المهمة بنجاح",
+      "deleted": "تم حذف المهمة بنجاح",
+      "moved": "تم نقل المهمة بنجاح"
+    },
+    "columns": {
+      "backlog": "المهام المعلقة",
+      "todo": "للتنفيذ",
+      "inProgress": "قيد التنفيذ",
+      "needReview": "بحاجة للمراجعة"
+    },
+    "priority": {
+      "low": "منخفضة",
+      "medium": "متوسطة",
+      "high": "عالية"
+    },
+    "empty": {
+      "noTasks": "لا توجد مهام في هذا العمود",
+      "addFirst": "أضف مهمتك الأولى"
+    }
+  }
+}

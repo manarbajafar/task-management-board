@@ -1,0 +1,117 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "theme": {
+      "light": "Light Theme",
+      "dark": "Dark Theme"
+    },
+    "search": {
+      "placeholder": "Search..."
+    }
+  },
+  "projectInfo": {
+    "activeProject": "Active Project",
+    "noUsersAssigned": "No users assigned",
+    "assignedTo": "Assigned to",
+    "dueDate": "Due Date", 
+    "tags": "Tags",
+    "noDueDate": "No due date set",
+    "setDueDate": "Set due date",
+    "selectDueDate": "Select due date",
+    "clickToEditDate": "Click to edit date",
+    "editName": "Edit project name",
+    "overdue": "Overdue",
+    "dueToday": "Due today", 
+    "dueSoon": "Due soon",
+    "daysLeft": "days left",
+    "addUser": "Add User",
+    "addUserToProject": "Add User to Project",
+    "userName": "Full Name",
+    "userEmail": "Email Address",
+    "userNameRequired": "Name is required",
+    "userEmailRequired": "Email is required",
+    "userNameMinLength": "Name must be at least 2 characters",
+    "userEmailInvalid": "Please enter a valid email",
+    "userNamePlaceholder": "Enter full name",
+    "userEmailPlaceholder": "Enter email address",
+    "userAdded": "User added successfully",
+    "addTag": "Add tag",
+    "addTags": "Add tags",
+    "enterTag": "Enter tag name",
+    "maxTagsReached": "Maximum tags reached",
+    "status": {
+      "active": "Active",
+      "completed": "Completed",
+      "on-hold": "On Hold"
+    }
+  },
+  "taskBoard": {
+    "title": "Task Management Board",
+    "addTask": "Add Task",
+    "editTask": "Edit Task",
+    "addTaskToColumn": "Add task to this column",
+    "totalTasks": "Total Tasks",
+    "showing": "Showing",
+    "of": "of",
+    "tasks": "tasks",
+    "searchResults": "Search results for",
+    "filtered": "Filtered",
+    "total": "total",
+    "priority": "Priority",
+    "assignee": "Assignee",
+    "filters": {
+      "title": "Filters",
+      "priority": "Priority",
+      "selectPriority": "Select priority",
+      "assignee": "Assignee",
+      "selectAssignee": "Select assignee",
+      "clear": "Clear Filters",
+      "activeFilters": "Active filters",
+      "active": "active"
+    },
+    "search": {
+      "placeholder": "Search tasks by title, description, or tags...",
+      "mobilePlaceholder": "Search tasks...",
+      "noResults": "No tasks found"
+    },
+    "task": {
+      "title": "Title",
+      "titleRequired": "Title is required",
+      "titlePlaceholder": "Enter task title",
+      "description": "Description",
+      "descriptionPlaceholder": "Enter task description",
+      "priority": "Priority",
+      "priorityRequired": "Priority is required",
+      "selectPriority": "Select priority",
+      "assignee": "Assignee",
+      "selectAssignee": "Select assignee",
+      "tags": "Tags",
+      "tagsPlaceholder": "Add tags (press Enter)",
+      "create": "Create Task",
+      "update": "Update Task",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "confirmDelete": "Delete Task?",
+      "confirmDeleteDesc": "This action cannot be undone",
+      "created": "Task created successfully",
+      "updated": "Task updated successfully",
+      "deleted": "Task deleted successfully",
+      "moved": "Task moved successfully"
+    },
+    "columns": {
+      "backlog": "Backlog",
+      "todo": "To Do",
+      "inProgress": "In Progress",
+      "needReview": "Need Review"
+    },
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "empty": {
+      "noTasks": "No tasks in this column",
+      "addFirst": "Add your first task"
+    }
+  }
+}
